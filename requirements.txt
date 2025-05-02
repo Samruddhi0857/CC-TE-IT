@@ -1,0 +1,5 @@
+Flask==2.2.5
+firebase-admin==6.0.0
+google-cloud-firestore==2.20.2
+gunicorn==21.2.0
+Werkzeug==2.2.3
